@@ -50,6 +50,5 @@ System.out.println("the absolute value is " + " " + absoluteValue);
 double randomNumb = Math.random();
 System.out.println("Random number between 0 and 1" + " " + randomNumb);
 
-
     }
 }
