@@ -21,6 +21,7 @@ public class Calculator {
         System.out.println("Preparing to do math... ");
 
 
+        System.out.println(firstNumber * secondNumber);
         ;
     }
 }
