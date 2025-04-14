@@ -16,6 +16,11 @@ public class Main {
         System.out.println("Hourly pay:");
         Float hourlyPay = Keystrokes.nextFloat();
 
+        System.out.println("Calculating monthly pay...");
+
+        System.out.println("First and last :" + firstAndLastName);
+        System.out.println("Monthly pay :" + ((hoursWorked * hourlyPay) * 4));
+
 
 
 
